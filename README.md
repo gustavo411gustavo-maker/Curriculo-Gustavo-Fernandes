@@ -1,6 +1,6 @@
 Gustavo Posso Fernandes
 
- Tel: 11 98610-6191 | Gmail: gustavo411gustavo@gmail.com | [LinkedIn](https://www.linkedin.com/in/gustavo-fernandes-221529327/) | [GitHub] (https://github.com/gustavo411gustavo-maker)
+ Tel: 11 98610-6191 | Gmail: gustavo411gustavo@gmail.com | [LinkedIn](https://www.linkedin.com/in/gustavo-fernandes-221529327/) | .[GitHub](https://github.com/gustavo411gustavo-maker)
  
 OBJETIVO
 Estudante de Análise e Desenvolvimento de Sistemas buscando oportunidade de estágio na área de
